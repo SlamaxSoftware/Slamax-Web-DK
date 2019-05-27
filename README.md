@@ -41,10 +41,27 @@ Here is a simple example that gets you started.
 
 ```markdown
 
-# Header 1
+#Example of a simple WebPage
+
+class examplePage extends Page {
+    function Create(){
+       #Browser page title
+       $this->pageTitle='My complete Web Page!';
+       #Adds content to this page
+       $this->addContent('Hello World!');
+    }
+    function eventOnBeginView() {
+      #Prints a log to the javascript function
+      Console::log('Javascript initialized!');
+    }
+}
 
 class exampleTemplate extends Template {
     function Create(){
+        #Page logic
+        $this->currentPage = new examplePage;
+        #Default theme applied
+        $this->applyTheme(new BasicTheme);
     }
 }
 
