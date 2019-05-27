@@ -24,6 +24,17 @@ Css and Javascript calls, thanks to the SlsmaxObject class,
 witch comes with a prebuilt event system that allows
 you to neatly organize your code! [Antonio Maizzi](https://my.com/)
 
+### Performance
+
+SlamaWebDK brings you wonderfull performance as it doesnt parse
+any content, doesn't have a scripting system  and is not any kind of 
+virtual machine, instead, it binds syntactic
+feature directly into default php methods, so you can
+just call the functions you need, and it fills
+a buffer with fully specialied code.
+It has a built in caching system wich furtermore 
+increases performances.
+
 ### Example of use
 
 Here is a simple example that gets you started.
@@ -48,9 +59,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Third party software
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SlamaxSoftware/SlamaxWebEngine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+SlamaxWebDK does not use any third party software,
+nor any extension/dependencies, it works with
+pure php code.
 
 ### Support or Contact
 
