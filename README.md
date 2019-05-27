@@ -7,8 +7,8 @@ SlamaxWebDK comes with a fast and reliable Template system,
 and a Theme based style system.
 
 SlamaxWebDK it is not a classical Php API, infact
-it us not only capable of processing server side code
-and logic, but also server side?
+it is not only capable of processing server side code
+and logic, but also client side.
 
 ### Why use SlamaxWebDK?
 
