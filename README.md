@@ -1,11 +1,27 @@
-# Slamax-Web-DK
+# Slamax-WebDK
+
+A ligthweigth fast and powerfull Web API made in pure Php. 
+Is capable of forging websites and online apps, it is full cross platform and cross browser.
+
+SlamaxWebDK comes with a fast and reliable Template system,
+and a Theme based style system.
+
+SlamaxWebDK it is not a classical Php API, infact
+it us not only capable of processing server side code
+and logic, but also server side?
+
+#Why would i use SlamaxWebDK?
+
+Programming website is becoming more complex, a lot
+of old frameworks needed the developer to know
+some Css and Javascript in order to use it properly,
+so a lot of solutions came up these years
+that allows to combine server, template and style
+logic altogheter.
 
 
-Web development kit for websites and online apps, full cross platform, full cross browser, fast and reliable
-h
 
-
-hWhenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hWhenever you commit to this repository, GitHub Pages will run [Antonio Maizzi](https://my.com/)
 
 ### Markdown
 
