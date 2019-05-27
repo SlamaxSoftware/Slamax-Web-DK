@@ -21,8 +21,8 @@ logic altogheter.
 
 SlamaxWebDK is the Php solutions, because is capable of serializing
 Css and Javascript calls, thanks to the SlsmaxObject class,
-witch comes with a prebuilt event system that allows
-you to neatly organize your code! [Antonio Maizzi](https://my.com/)
+wich comes with a prebuilt event system that allows
+you to neatly organize your code! [Slammer](https://my.com/)
 
 ### Performance
 
