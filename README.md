@@ -10,7 +10,7 @@ SlamaxWebDK it is not a classical Php API, infact
 it us not only capable of processing server side code
 and logic, but also server side?
 
-#Why would i use SlamaxWebDK?
+# Why would i use SlamaxWebDK?
 
 Programming website is becoming more complex, a lot
 of old frameworks needed the developer to know
