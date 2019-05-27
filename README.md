@@ -43,6 +43,12 @@ Here is a simple example that gets you started.
 
 # Header 1
 
+class exampleTemplate extends Template {
+    function Create(){
+    }
+}
+
+new ExampleTemplate;
 
 ```
 
