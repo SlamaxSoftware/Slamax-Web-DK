@@ -77,6 +77,11 @@ SlamaxWebDK does not use any third party software,
 nor any extension/dependencies, it works with
 pure php code.
 
+### Software Licence
+
+SlamaxWebDK is under the Apache licence! check the licence file
+inside the repository before use it in your code!
+
 ### Support or Contact
 
 Need support or have some issues? Check out our [documentation](https://help.github.com/categories/github-pages-basics/), 
