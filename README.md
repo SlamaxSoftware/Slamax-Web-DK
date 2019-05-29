@@ -69,8 +69,6 @@ new ExampleTemplate;
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Third party software
 
 SlamaxWebDK does not use any third party software,
