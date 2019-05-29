@@ -39,7 +39,7 @@ increases performances.
 
 First you have to include the library!.
 
-```markdown
+```php
 
 #Example of including the sdk 
 
@@ -52,7 +52,7 @@ First you have to include the library!.
 
 And here is a simple example that gets you started.
 
-```markdown
+```php
 
 #Example of a simple WebPage
 
