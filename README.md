@@ -41,12 +41,12 @@ First you have to include the library!.
 
 ```php
 
-#Example of including the sdk 
+#Example of including the sdk by downloading it
+require_once('lib\slamaxwebdk\autoload.php');
 
-
-
-
-
+#Example of including the sdk for FREE via hosted online server
+require_once('onlineloader.php');
+includeSlamaxWebDK();
 
 ```
 
