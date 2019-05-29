@@ -43,6 +43,19 @@ Here is a simple example that gets you started.
 
 #Example of a simple WebPage
 
+
+
+
+
+
+```
+
+Here is a simple example that gets you started.
+
+```markdown
+
+#Example of a simple WebPage
+
 class examplePage extends Page {
     function Create(){
        #Browser page title
@@ -68,6 +81,9 @@ class exampleTemplate extends Template {
 new ExampleTemplate;
 
 ```
+
+
+
 
 ### Third party software
 
