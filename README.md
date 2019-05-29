@@ -37,11 +37,11 @@ increases performances.
 
 ### Example of use
 
-Here is a simple example that gets you started.
+First you have to include the library!.
 
 ```markdown
 
-#Example of a simple WebPage
+#Example of including the sdk 
 
 
 
@@ -50,7 +50,7 @@ Here is a simple example that gets you started.
 
 ```
 
-Here is a simple example that gets you started.
+And here is a simple example that gets you started.
 
 ```markdown
 
